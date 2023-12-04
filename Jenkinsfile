@@ -11,7 +11,7 @@ pipeline {
         stage('Clean old DOCs & checkout SCM') {
             steps {
                 cleanWs()
-                checkout scm 
+                checkout scm
             }
         }
         stage('verify tools') {
