@@ -4,7 +4,7 @@ A blog management project based on CodeIgniter4 PHP framework.
 ## How to Run
 
 ### Prerequisites
-1. docker
+1. docker 
 
 ### 1. Start the development environment.
 Command: `docker-compose up`
