@@ -13,7 +13,7 @@ Command: `docker-compose up`
 Command: `docker-compose exec ci4_service composer install`
 
 ### 3. Copy the `env` file to `.env` file and modify it.
-From `env` file
+From `env` file 
 ```
 # database.default.hostname = localhost
 # database.default.database = ci4
